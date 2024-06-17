@@ -6,7 +6,7 @@ A live version is available @
 https://kerbstone52.github.io/IrishMegalithsMap/index.html
 
 <p align="center">
-  <img width="1024" src="https://github.com/kerbstone52/IrishMegalithsMap/blob/main/Axe.png">
+  <img width="1024" src="https://github.com/kerbstone52/Axe/blob/main/Axe.png">
 </p>
 
 Archaeology Explorer
